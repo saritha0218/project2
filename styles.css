@@ -1,0 +1,38 @@
+.calculator{
+    border:3px solid black;
+    margin:200px;
+    height:500px;
+    padding:20px;
+    width:350px;
+    border-radius:20px;
+  }
+  
+  input[type=button]{
+    height:40px;
+    width:50px;
+    background-color:gray;
+  }
+  
+  .display-box{
+    height:30px;
+    width:250px;
+    border: 2px solid black;
+    border-radius:10px;
+  }
+  
+  #btn{
+    background-color:red;
+  }
+  
+  #btns{
+    background-color:yellow;
+    color:black;
+  }
+   
+  input:active[type=button]{
+      background: #e5e5e5;
+  }
+  
+  table{
+    background-color:skyblue;
+  }
