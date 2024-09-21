@@ -10,7 +10,7 @@
   input[type=button]{
     height:40px;
     width:50px;
-    background-color:gray;
+    background-color:rgb(72, 70, 70);
   }
   
   .display-box{
@@ -22,6 +22,7 @@
   
   #btn{
     background-color:red;
+    height: 50px;
   }
   
   #btns{
@@ -34,5 +35,13 @@
   }
   
   table{
-    background-color:skyblue;
+    background-color:rgb(184, 226, 243);
+  }
+  .buttons{
+    border-radius: 8px;
+    font-weight: bold;
+    color: white;
+  }
+  #result{
+    height: 50px;
   }
